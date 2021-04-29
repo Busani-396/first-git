@@ -1,3 +1,3 @@
-#My demo project
+#Demo
 
 Demo project 
